@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # Predicting EPL Football Match outcomes
 
 # Introduction
